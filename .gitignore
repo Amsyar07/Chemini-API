@@ -1,0 +1,10 @@
+.qodo/
+.vscode/
+.env/
+
+chemistra/
+
+__pycache__/
+*.pyc
+.vercel
+.env*.local
