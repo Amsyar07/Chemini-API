@@ -8,3 +8,6 @@ __pycache__/
 *.pyc
 .vercel
 .env*.local
+
+llm_api_request.py
+vercel.json
